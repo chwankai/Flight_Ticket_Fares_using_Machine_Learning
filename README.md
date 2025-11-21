@@ -1,4 +1,4 @@
-# Flight_Ticket_Fares_Prediction_using_Machine_Learning
+# Flight Ticket Fares Prediction using ML
 This project focuses on the domain of flight ticket price prediction, where the pricing is often influenced by factors such as flight duration, seat availability, airline, travel dates, and booking conditions. Three models including Linear Regression, KNN Regression, and Random Forest Regression were used in this study.
 
 ## Dataset Source
